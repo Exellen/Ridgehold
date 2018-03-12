@@ -6,6 +6,7 @@ public class MyCode : MonoBehaviour {
     
 	void Start () {
         print("You found the castle");
+        print("Created something");
 	}
 
 	void Update () {
